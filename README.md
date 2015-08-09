@@ -10,3 +10,6 @@ The `/` endpoint returns the JSON for the `entities` feed, which includes `TripU
 Based on [yuningalexliu/mta-realtime](https://github.com/yuningalexliu/mta-realtime), but removed frontend parts and just made it a simple JSON endpoint.
 
 Read the MTA's [GTFS realtime specification document](http://datamine.mta.info/sites/all/files/pdfs/GTFS-Realtime-NYC-Subway%20version%201%20dated%207%20Sep.pdf) for more details on what you're looking at.
+
+The results look like this when prettified using the JSONview chrome plugin:
+![localhost_3000](https://cloud.githubusercontent.com/assets/1833820/9156029/cfe53bbe-3e99-11e5-8b33-f29992d0119d.png)
